@@ -7,7 +7,7 @@
 Move on to: ==> Begin.
 ## 2. Begin
 ### Asset Setup:
-To create an asset bundle in Unity, you will, as stated previously, need to have a basic understanding of the Unity Editor. The first step in this process is locating the prefab [Prefab documentation](https://docs.unity3d.com/Manual/Prefabs.html) you would like to pack into your asset bundle and select it in the project folder viewer, whilst the prefab is selected at the bottom of the inspector menu, there will be a section reading "AssetBundle" 
+To create an asset bundle in Unity, as stated previously, you will need to have a basic understanding of the Unity Editor. The first step in this process is locating the prefab [Prefab documentation](https://docs.unity3d.com/Manual/Prefabs.html) you would like to pack into your asset bundle and select it in the project folder viewer, whilst the prefab is selected at the bottom of the inspector menu, there will be a section reading "AssetBundle" 
 
 ![Screenshot of the section at the bottom of the inspector.](https://github.com/Wxlfie646/Unity/blob/main/Images/Inspector-AssetBundle.png) 
 
