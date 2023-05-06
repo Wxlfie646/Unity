@@ -1,11 +1,24 @@
-+++++ Asset Bundle Creation +++++
-
 1. Introduction
-
 Initial things to note:
-- this may not be as simple as you may have hoped.
-- this requires at least simple knowledge of the UnityEditor.
+> This may not be as simple as you may have hoped.
+
+> This requires at least simple knowledge of the Unity Editor.
+
+> Have patience; don't just rush and paste.
+
+Move on to: ==> Begin.
+
 
 2. Begin
+Setup:
 
-3. Finnish
+Since this is a multi-step process, I would recommend taking one step at a time. First off, for asset bundle creation in Unity, one of or possibly the most simple ways to do so is to use a C# (C-Sharp) script. Though the process for creating the script will not be provided in this guide, I have provided one here:
+
+(https://github.com/Wxlfie646/Unity/blob/main/Scripts/CreateAssetBundles.cs)
+
+Once you have downloaded the script, place it in your Unity project. Move on to: ==> Usage.
+
+Usage:
+3. Finish
+You're all set! If you encounter any issues with this guide, feel free to let me know.
+Discord: Wxlfie#0001
