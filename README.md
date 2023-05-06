@@ -1,6 +1,6 @@
 # Unity Utilities
 
-### **NOTICE**: This repository is still WIP.
+### *NOTICE*: This repository is still WIP.
 
 Current Guides:
 
