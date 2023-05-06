@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using UnityEditor;
 using UnityEngine;
@@ -6,7 +6,7 @@ using UnityEngine;
 public class AssetBundleCreator
 {
     // Sets menu item to call bundle creation method below.
-    [MenuItem("Wxlfie646/Build All Asset Bundles")]
+    [MenuItem("Wxlfie646/Asset Bundle/Build All Asset Bundles")]
     private static void BuildAssetBundles()
     {
         Debug.Log("[Function Call] Called : AssetBundleCreator.BuildAssetBundles()");
@@ -30,4 +30,5 @@ public class AssetBundleCreator
         catch (Exception ex) { Debug.LogWarning("[Exception]: " + ex.Message + " in " + ex.Source + " Stack: " + ex.StackTrace); }
     }
 }
+ 
  
