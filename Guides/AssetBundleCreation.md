@@ -1,9 +1,9 @@
 # Asset Bundle Creation
 ## 1. Introduction
 ### Initial things to note:
-  > This may not be as simple as you may have hoped.
-  > This requires at least simple knowledge of the Unity Editor. ()
-  > Have patience; don't just rush and paste.
+  > + This may not be as simple as you may have hoped.
+  > + This requires at least simple knowledge of the Unity Editor. ()
+  > + Have patience; don't just rush and paste.
 Move on to: ==> Begin.
 ## 2. Begin
 ### Asset Setup:
