@@ -17,7 +17,7 @@ Since this is a multi-step process, I recommend taking one step at a time. First
 
 [AssetBundle creation script](https://github.com/Wxlfie646/Unity/blob/main/Scripts/CreateAssetBundles.cs)
 
-Once you have downloaded the script, place it in the assets folder of your Unity project. Move on to ==> Usage.
+Once you have downloaded the script, create a new folder in the assets folder of your Unity project called “editor” and place the downloaded script into it. Once done move on to ==> Usage.
 ### Usage:
 Once you have imported the script into your project, a new tab should appear on the toolbar on the top row of the editor. within this tab, there will be one or more functions depending on the amount or version of my scripts you have installed on your project. An asset bundle dropdown should be located at the top of this tab. In the asset bundle drop-down menu, there is an option called “Build All Asset Bundles”, this will build all asset bundles in your unity project to the output folder in the directory “Wxlfie646/AssetBundles” If you see don’t see the files here refresh the directory viewer, now the asset bundles that were created should be located in this folder. Move on to: ==> Finish.
 
