@@ -1,0 +1,11 @@
++++++ Asset Bundle Creation +++++
+
+1. Introduction
+
+Initial things to note:
+- this may not be as simple as you may have hoped.
+- this requires at least simple knowledge of the UnityEditor.
+
+2. Begin
+
+3. Finnish
